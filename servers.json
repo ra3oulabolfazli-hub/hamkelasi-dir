@@ -1,10 +1,9 @@
 {
   "v": 1,
-  "ts": 1792234609,
+  "ts": 1792263410,
   "servers": [
-    "http://eu.monkey-network.xyz:5012",
-    "http://212.227.38.182:5012"
+    "http://78.154.103.16:16181"
   ],
   "mirrors": [],
-  "sig": "cKi6382QXn9LtULvGAEZS6zgoD+DQ0DJi+N9k8RxQUa2s8iPM9bXkgnMecYwBtuBO1lcCT+bOwd4r/aNAyjGVA=="
+  "sig": "dNenC5HJEW/eNZzBCDd3P34XKcPaj60qIGX/S60iB35D8RTl7dUy6ObswsDH40rHNfO9Mh/P830bqtncTMxBNQ=="
 }
